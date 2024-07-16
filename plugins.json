@@ -1,0 +1,114 @@
+[
+  {
+    "projectUrl": "https://github.com/eset/ipyida",
+    "name": "GitHub - eset/ipyida: IPython console integration for IDA Pro"
+  },
+  {
+    "projectUrl": "https://github.com/gaasedelen/lucid",
+    "name": "GitHub - gaasedelen/lucid: An Interactive Hex-Rays Microcode Explorer"
+  },
+  {
+    "projectUrl": "https://github.com/gaasedelen/patching",
+    "name": "GitHub - gaasedelen/patching: An Interactive Binary Patching Plugin for IDA Pro"
+  },
+  {
+    "projectUrl": "https://github.com/keystone-engine/keypatch",
+    "name": "GitHub - keystone-engine/keypatch: Multi-architecture assembler for IDA Pro. Powered by Keystone Engine."
+  },
+  {
+    "projectUrl": "https://github.com/igogo-x86",
+    "name": "igogo-x86 - Overview"
+  },
+  {
+    "projectUrl": "https://github.com/joxeankoret/diaphora",
+    "name": "GitHub - joxeankoret/diaphora: Diaphora, the most advanced Free and Open Source program diffing tool."
+  },
+  {
+    "projectUrl": "https://github.com/google/bindiff",
+    "name": "GitHub - google/bindiff: Quickly find differences and similarities in disassembled code"
+  },
+  {
+    "projectUrl": "https://github.com/gaasedelen/lighthouse",
+    "name": "GitHub - gaasedelen/lighthouse: A Coverage Explorer for Reverse Engineers"
+  },
+  {
+    "projectUrl": "https://github.com/bootleg/ret-sync",
+    "name": "GitHub - bootleg/ret-sync: ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers."
+  },
+  {
+    "projectUrl": "https://github.com/binarly-io/efiXplorer",
+    "name": "GitHub - binarly-io/efiXplorer: IDA plugin for UEFI firmware analysis and reverse engineering automation"
+  },
+  {
+    "projectUrl": "https://github.com/airbus-cert/ttddbg",
+    "name": "GitHub - airbus-cert/ttddbg: Time Travel Debugging IDA plugin"
+  },
+  {
+    "projectUrl": "https://github.com/airbus-seclab/bincat",
+    "name": "GitHub - airbus-seclab/bincat: Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection"
+  },
+  {
+    "projectUrl": "https://github.com/JusticeRage/Gepetto",
+    "name": "GitHub - JusticeRage/Gepetto: IDA plugin which queries uses language models to speed up reverse-engineering"
+  },
+  {
+    "projectUrl": "https://github.com/atredispartners/aidapal",
+    "name": "GitHub - atredispartners/aidapal: aiDAPal is an IDA Pro plugin that uses a locally running LLM that has been fine-tuned for Hex-Rays pseudocode to assist with code analysis."
+  },
+  {
+    "projectUrl": "https://github.com/mandiant/capa/blob/master/capa/ida/plugin/README.md",
+    "name": "capa/capa/ida/plugin/README.md at master · mandiant/capa"
+  },
+  {
+    "projectUrl": "https://github.com/joydo/d810",
+    "name": "GitHub - joydo/d810"
+  },
+  {
+    "projectUrl": "https://github.com/danigargu/deREferencing",
+    "name": "GitHub - danigargu/deREferencing: IDA Pro plugin that implements more user-friendly register and stack views"
+  },
+  {
+    "projectUrl": "https://github.com/fox-it/mkYARA",
+    "name": "GitHub - fox-it/mkYARA: Generating YARA rules based on binary code"
+  },
+  {
+    "projectUrl": "https://github.com/interruptlabs/heimdallr-ida",
+    "name": "GitHub - interruptlabs/heimdallr-ida: A IDA plugin to enable linking to locations in an IDB with a disas:// URI"
+  },
+  {
+    "projectUrl": "https://github.com/NeatMonster/AMIE",
+    "name": "GitHub - NeatMonster/AMIE: A Minimalist Instruction Extender for the ARM architecture and IDA Pro"
+  },
+  {
+    "projectUrl": "https://github.com/herosi/classinformer-ida8",
+    "name": "GitHub - herosi/classinformer-ida8: IDA Class Informer plugin for IDA 8.x"
+  },
+  {
+    "projectUrl": "https://github.com/patois/genmc",
+    "name": "GitHub - patois/genmc: Display Hex-Rays Microcode"
+  },
+  {
+    "projectUrl": "https://github.com/REhints/HexRaysCodeXplorer",
+    "name": "GitHub - REhints/HexRaysCodeXplorer: Hex-Rays Decompiler plugin for better code navigation"
+  },
+  {
+    "projectUrl": "https://github.com/argp/iBoot64helper",
+    "name": "GitHub - argp/iBoot64helper: IDAPython loader to help with AArch64 iBoot, iBEC, and SecureROM reverse engineering"
+  },
+  {
+    "projectUrl": "https://github.com/helloobaby/ida-comment-view",
+    "name": "GitHub - helloobaby/ida-comment-view: ida comment view list (equal or above 7.5 version)"
+  },
+  {
+    "projectUrl": "https://github.com/tmr232/Sark",
+    "name": "GitHub - tmr232/Sark: IDAPython Made Easy"
+  },
+  {
+    "projectUrl": "https://github.com/gaasedelen/tenet",
+    "name": "GitHub - gaasedelen/tenet: A Trace Explorer for Reverse Engineers"
+  },
+  {
+    "projectUrl": "https://github.com/arizvisa/ida-minsc",
+    "name": "GitHub - arizvisa/ida-minsc: A plugin based on IDAPython for a functional DWIM interface. Current development against most recent IDA is in the \"persistence-refactor\" branch, ancient (but stable) work is in \"master\", so... create an issue if you want/need something backported. Use \"Wiki\" or \"Discussions\" for examples, and smash that \"Star\" button if you like this."
+  }
+]
